@@ -110,7 +110,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Maazwebdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazWebDev&layout=compact&theme=dark" alt="Top Languages" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaazWebDev&layout=compact&theme=dark" alt="Top Languages" />
 <img src="https://github-profile-trophy.vercel.app/?username=MaazWebDev&theme=onedark" alt="Trophies" />
 </div>
 
