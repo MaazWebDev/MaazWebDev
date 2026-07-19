@@ -110,8 +110,8 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Maazwebdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Maazwebdev/Maazwebdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Maazwebdev/Maazwebdev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazWebDev&layout=compact&theme=dark" alt="Top Languages" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MaazWebDev&theme=onedark" alt="Trophies" />
 </div>
 
 ###
